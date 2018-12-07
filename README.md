@@ -4,4 +4,7 @@ In this model, two algorthims have been applied: the Gibbs sampler for a Mixture
 ## Key algorithm files
 1. **Bayesian.m:** Bayesian inference using a symmetric Dirichlet prior with a concentration parameter α =0.1 on the word probabilities
 2. **bmm.m:** Gibbs sampling for a mixture of multinomials model
-3.
+3. **lda.m:** Gibbs sampling for a Latent Dirichlet Allocation
+
+##### Note
+This machine learning project was carried out as part of the fourth-year Information and Computing Engineering course at Cambridge University Engineering Department.
