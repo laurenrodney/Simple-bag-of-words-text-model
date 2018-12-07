@@ -7,4 +7,4 @@ In this model, two algorthims have been applied: the Gibbs sampler for a Mixture
 3. **lda.m:** Gibbs sampling for a Latent Dirichlet Allocation
 
 ##### Note
-This machine learning project was carried out as part of the fourth-year Information and Computing Engineering course at Cambridge University Engineering Department.
+This machine learning project was carried out as part of the fourth-year Information and Computing Engineering course at Cambridge University Engineering Department. (http://mlg.eng.cam.ac.uk/teaching/4f13/1819/)
